@@ -35,7 +35,7 @@ console.log(4 * 5);   // Multiplicação
 console.log(20 / 4);  // Divisão
 console.log(10 % 3);  // Resto da divisão
 
-// ==================== MÚLTIPLOS VALORES ====================
+// ==================== MÚLTIPLOS VALORES ===================
 
 // Exibe vários valores na mesma linha
 console.log(10, 30.5, 'João Marcelo');
